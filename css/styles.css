@@ -1,0 +1,163 @@
+a {
+  color: #11999E;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #EAf6f6;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Rowdies", fantasy;
+  color: #40514E;
+}
+
+h1 {
+  color: #BB6464;
+  font-size: 562%;
+  margin: 50 auto 0 auto;
+  font-family: "Syne Tactile", fantasy;
+  line-height: 2;
+}
+
+h2 {
+  font-size: 2.5rem;
+  font-weight: normal;
+  color: #66BFBF;
+}
+
+h3 {
+  color: #CDB699;
+}
+
+hr {
+  border-style: dotted none none;
+  width: 5%;
+  border-width: 6px;
+  border-color: grey;
+  /* You can also do border: dotted grey 6px */
+  margin: 100px auto;
+}
+
+p {
+   line-height: 2;
+}
+
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.bottom-container {
+  margin: 50px auto 50px;
+  background-color: #66BFBF;
+  padding: 50px;
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+.contact-me {
+  padding-bottom: 2%;
+}
+
+.contactmessage {
+  width: 40%;
+  margin: 40px auto;
+}
+
+.footername {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+}
+
+.gearspic {
+  width: 25%;
+  height: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.Jerry {
+  width: 30%;
+  height: 30%;
+}
+
+
+.pmdesc {
+  clear: right;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.profile {
+  margin: 40px auto;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 40px auto 40px;
+  text-align: left;
+  line-height: 2;
+}
+
+.skillspic {
+  width: 25%;
+  height: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+
+.smdesc {
+  clear: left;
+}
+
+.top-container {
+  background-color: #C8F2EF;
+  position: relative;
+  padding-top: 30px;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 250px;
+}
